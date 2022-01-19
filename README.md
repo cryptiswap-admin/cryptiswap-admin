@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptiswap-admin
 - 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Crypto
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Crypto
 - 📫 How to reach me admin@cryptiswap.org or on https://cryptiswap.org/
 
